@@ -1,9 +1,11 @@
 # Veggie Soup
 
 
-**Prep time**:       | 15 min 
- --------------------| ------ 
-**Cooking time**:    | 2 to 4 hours 
+ Prep time           | 15 min 
+ --------------------| ------------
+ Cooking time        | 2 to 4 hours 
+ ------------------- | -------------
+ Average cost        | $16 for 6 serves
 
 
 ###### What you need.

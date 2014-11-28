@@ -16,7 +16,7 @@
 * carrot
 * onion
 * parsnip
-* 2 picked of*maggi* chicken noodle soup mix (dry sachet pack)
+* 2 picked of _maggi_ chicken noodle soup mix (dry sachet pack)
 * water
 
 ---

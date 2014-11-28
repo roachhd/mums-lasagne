@@ -1,7 +1,7 @@
 # Veggie Soup
 
 
- Notes               |                   |
+ About               |                   |
  ------------------- | ----------------- |
  Prep time           | 15 min            |
  Cooking time        | 2 to 4 hours      |

@@ -1,3 +1,15 @@
+---
+layout: recipe
+title: Chunky Veggie Soup
+image: http://farm9.staticflickr.com/8354/8369364904_8254eda512_q.jpg
+recipe-attribution: Mum
+recipe-attribution-link: http://github.com/roachhd/mums-lasagne/ATTRIBUTION.md
+image-attribution: Katie Ball
+image-attribution-link: http://www.flickr.com/photos/14730981@N08/8369364904/
+---
+
+## Ingredients
+
 # Veggie Soup
 
 

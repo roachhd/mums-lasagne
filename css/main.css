@@ -559,12 +559,12 @@ main .img-wrapper {
 .snow-layer {
 	background: url(http://shabbyblogs.com/wp-content/themes/shabbyblog/images/facebook-top-img.png) top center transparent no-repeat;
 	z-index: 1;
-	//height: 20px;
+	/*height: 20px;
 	width: 100%;
 	position: fixed;
 	bottom: 0;
 	display: block;
-	//background-size: auto 20px;
+	/*background-size: auto 20px;
     }
     }
 

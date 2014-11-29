@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'mountains_of_christmasregular';
-    src: url('https://roachhd.github.io/christmas-recipes/blob/gh-pages/css/MountainsofChristmas-webfont.eot');
-    src: url('https://roachhd.github.io/christmas-recipes/blob/gh-pages/css/MountainsofChristmas-webfont.eot?#iefix') format('embedded-opentype'),
-         url('https://roachhd.github.io/christmas-recipes/blob/gh-pages/css/MountainsofChristmas-webfont.woff') format('woff'),
-         url('https://roachhd.github.io/christmas-recipes/blob/gh-pages/css/MountainsofChristmas-webfont.ttf') format('truetype'),
-         url('https://roachhd.github.io/christmas-recipes/blob/gh-pages/css/MountainsofChristmas-webfont.svg#mountains_of_christmasregular') format('svg');
+    src: url('https://roachhd.github.io/christmas-recipes/css/MountainsofChristmas-webfont.eot');
+    src: url('https://roachhd.github.io/christmas-recipes/css/MountainsofChristmas-webfont.eot?#iefix') format('embedded-opentype'),
+         url('https://roachhd.github.io/christmas-recipes/css/MountainsofChristmas-webfont.woff') format('woff'),
+         url('https://roachhd.github.io/christmas-recipes/css/MountainsofChristmas-webfont.ttf') format('truetype'),
+         url('https://roachhd.github.io/christmas-recipes/css/MountainsofChristmas-webfont.svg#mountains_of_christmasregular') format('svg');
     font-weight: normal;
     font-style: normal;
     }
@@ -314,14 +314,14 @@ main {
     }
 
 .container {
-    background: url("https://roachhd.github.io/christmas-recipes/blob/gh-pages/css/snow.png") #E5EAEE;
+    background: url("https://roachhd.github.io/christmas-recipes/css/snow.png") #E5EAEE;
     width: 100%;
     float: left;
     }
 
     @media (min-width:40em) {
     .container {
-        background: url("https://roachhd.github.io/christmas-recipes/blob/gh-pages/css/snow.png") #E5EAEE fixed;
+        background: url("https://roachhd.github.io/christmas-recipes/css/snow.png") #E5EAEE fixed;
         }
     }
 
@@ -557,7 +557,7 @@ main .img-wrapper {
 
 @media (min-width:1em) {
 .snow-layer {
-	background: url(https://roachhd.github.io/christmas-recipes/blob/gh-pages/css/snow-layer.png) top center transparent repeat-x;
+	background: url(https://roachhd.github.io/christmas-recipes/css/snow-layer.png) top center transparent repeat-x;
 	z-index: 1;
 	height: 20px;
 	width: 100%;
@@ -570,7 +570,7 @@ main .img-wrapper {
 
     @media (min-width:40em) {
     .snowman {
-        background: url(https://roachhd.github.io/christmas-recipes/blob/gh-pages/css/snowman.png) top right transparent no-repeat;
+        background: url(https://roachhd.github.io/christmas-recipes/css/snowman.png) top right transparent no-repeat;
         height: 110px;
         width: 100px;
         position: fixed;
@@ -584,7 +584,7 @@ main .img-wrapper {
 
     @media (min-width:1em) {
     .snow-icicles {
-    	background: url(https://roachhd.github.io/christmas-recipes/blob/gh-pages/css/snow-icicles.png) bottom center transparent repeat-x;
+    	background: url(https://roachhd.github.io/christmas-recipes/css/snow-icicles.png) bottom center transparent repeat-x;
     	z-index: 1;
     	height: 30px;
     	width: 100%;

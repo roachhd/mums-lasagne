@@ -557,7 +557,7 @@ main .img-wrapper {
 
 @media (min-width:1em) {
 .snow-layer {
-	background: url(http://shabbyblogs.com/wp-content/themes/shabbyblog/images/facebook-top-img.png) top center transparent repeat-x;
+	background: url(http://shabbyblogs.com/wp-content/themes/shabbyblog/images/facebook-top-img.png) top center transparent no-repeat;
 	z-index: 1;
 	height: 20px;
 	width: 100%;
